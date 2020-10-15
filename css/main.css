@@ -2206,7 +2206,7 @@
 
 	.cons
 	{
-		filter: invert(1);
+		filter: invert(0);
 		margin-left: 1%;		
 	}
 
